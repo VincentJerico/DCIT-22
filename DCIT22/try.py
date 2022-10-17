@@ -1,0 +1,5 @@
+Firstname = input("What is your firstname? ")
+Lastname = input("What is your lastname? ")
+print("Hi " + Firstname, Lastname)
+Age = input("How old are you? ")
+print("haha " + Age)
